@@ -1,7 +1,8 @@
-/cotent/darknet/data/whill/000069.jpg
-/cotent/darknet/data/whill/000139.jpg
-/cotent/darknet/data/whill/000017.jpg
-/cotent/darknet/data/whill/000138.jpg
-/cotent/darknet/data/whill/000003.jpg
-/cotent/darknet/data/whill/000036.jpg
-/cotent/darknet/data/whill/000046.jpg
+/cotent/darknet/data/manekineko/000010.jpg
+/cotent/darknet/data/manekineko/000020.jpg
+/cotent/darknet/data/manekineko/000030.jpg
+/cotent/darknet/data/manekineko/000040.jpg
+/cotent/darknet/data/manekineko/000050.jpg
+/cotent/darknet/data/manekineko/000060.jpg
+/cotent/darknet/data/manekineko/000070.jpg
+/cotent/darknet/data/manekineko/000080.jpg
