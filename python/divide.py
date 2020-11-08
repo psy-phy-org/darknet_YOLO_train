@@ -6,7 +6,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 print(current_dir)
 
 current_dir = '../data/manekineko'
-g_colab_full_path='/cotent/darknet/data/manekineko'
+g_colab_full_path='/content/darknet/data/manekineko'
 
 # Percentage of images to be used for the test set
 percentage_test = 10;
