@@ -1,8 +1,0 @@
-/content/darknet/data/manekineko/000010.jpg
-/content/darknet/data/manekineko/000020.jpg
-/content/darknet/data/manekineko/000030.jpg
-/content/darknet/data/manekineko/000040.jpg
-/content/darknet/data/manekineko/000050.jpg
-/content/darknet/data/manekineko/000060.jpg
-/content/darknet/data/manekineko/000070.jpg
-/content/darknet/data/manekineko/000080.jpg

@@ -1,5 +1,0 @@
-classes= 1
-train  = cfg/manekineko-train.txt
-valid  = cfg/manekineko-test.txt
-names = data/manekineko.names
-backup = backup

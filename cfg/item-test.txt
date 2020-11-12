@@ -1,0 +1,7 @@
+/cotent/darknet/data/item/000069.jpg
+/cotent/darknet/data/item/000139.jpg
+/cotent/darknet/data/item/000017.jpg
+/cotent/darknet/data/item/000138.jpg
+/cotent/darknet/data/item/000003.jpg
+/cotent/darknet/data/item/000036.jpg
+/cotent/darknet/data/item/000046.jpg
